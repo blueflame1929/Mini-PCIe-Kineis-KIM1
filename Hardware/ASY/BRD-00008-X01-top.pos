@@ -1,0 +1,43 @@
+### Module positions - created on 07/22/20 15:05:34 ###
+### Printed by Pcbnew version kicad (5.1.6)-1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                Package                              PosX       PosY       Rot  Side
+C1        GRM1555C1E470JA01  CAPC100X50X55L25N                 12.5000     5.4500  180.0000  top
+C2        GRM1555C1E470JA01  CAPC100X50X55L25N                 12.5000     8.9500  180.0000  top
+C3        GRM155R71E103KA01  CAPC100X50X55L25N                 12.1000    10.9500  270.0000  top
+C4        GRM155R71C104KA88  CAPC100X50X55L25N                 10.1000    10.9500   90.0000  top
+C5        CL05A106MP8NUB8    CAPC100X50X90L25N                  9.0000    10.9500   90.0000  top
+C6        GRM155R71E103KA01  CAPC100X50X55L25N                 28.0000    12.9500  180.0000  top
+C7        GRM155R71C104KA88  CAPC100X50X55L25N                 28.0000    15.3500    0.0000  top
+C8        CL05A106MP8NUB8    CAPC100X50X90L25N                 28.0000    16.6500    0.0000  top
+C9        GRM188R61A106MAAL  CAPC160X80X95L37N                 24.0450    11.4500    0.0000  top
+C10       GRM188R61A226ME15  CAPC160X80X100L37N                24.0000     6.8500  180.0000  top
+C11       GRM188R61A226ME15  CAPC160X80X100L37N                24.0000     5.2500  180.0000  top
+FB1       BLM15PX330SN1      BEADC100X50X55L25N                11.1000    10.9500  270.0000  top
+FB2       BLM15PX330SN1      BEADC100X50X55L25N                28.0000    14.1500  180.0000  top
+J2        160-00001-I01      HIROSE_U.FL-R-SMT-1               18.5000    48.9500    0.0000  top
+J3        160-00054-E01      JST_SM05B-SRSS-TB                 10.5000    48.1500  180.0000  top
+L1        74438357010        WURTH_74438357010                 20.0000    10.1500  270.0000  top
+LD1       SMLP13BC8T         ROHM_SMLP13BC8T                   28.0000    21.7500    0.0000  top
+LD2       SML-P13PT          ROHM_SML-P13PT                    28.0000    26.7500    0.0000  top
+MOD1      195-00011-C01      KINEIS_KIM1                       15.0000    28.4500   90.0000  top
+R1        ERJ-2GE0R00        RESC100X50X40L25N                 13.1000    10.9500  270.0000  top
+R2        ERJ-2RKF27R0       RESC100X50X40L25N                 12.5000     6.4500    0.0000  top
+R3        ERJ-2RKF27R0       RESC100X50X40L25N                 12.5000     7.9500    0.0000  top
+R4        ERJ-2RKF6650       RESC100X50X40L25N                 28.0000    22.9500    0.0000  top
+R5        ERJ-2RKF1003       RESC100X50X40L25N                 28.0000    25.4500    0.0000  top
+R6        ERJ-2GE0R00        RESC100X50X40L25N                 28.0000    24.2500    0.0000  top
+R7        ERJ-2GE0R00        RESC100X50X40L25N                  2.0000    20.4500  180.0000  top
+R8        ERJ-2GE0R00        RESC100X50X40L25N                  2.0000    19.4500  180.0000  top
+R9        ERJ-2RKF1003       RESC100X50X40L25N                 28.0000    20.4500    0.0000  top
+R10       ERJ-2GE0R00        RESC100X50X40L25N                 28.0000    17.9500    0.0000  top
+R11       ERJ-2GE0R00        RESC100X50X40L25N                 28.0000    19.2500    0.0000  top
+R12       ERJ-2RKF6650       RESC100X50X40L25N                 28.0000    28.0500    0.0000  top
+R13       ERJ-2GE0R00        RESC100X50X40L25N                 28.0000     8.2500  180.0000  top
+R14       ERJ-2GE0R00        RESC100X50X40L25N                 28.0000    11.4500  180.0000  top
+R15       ERJ-2RKF1003       RESC100X50X40L25N                 26.0000     9.6500    0.0000  top
+R16       ERJ-2RKF7323       RESC100X50X40L25N                 26.0000     8.2500  180.0000  top
+U1        140-00001-I01      QFN21P50_400X400X80L40X25T200N     8.5000     6.9500    0.0000  top
+U2        TPS61023DRL        ICSOFL6P50_160X160X60L30X21N      24.0000     8.9500  180.0000  top
+## End

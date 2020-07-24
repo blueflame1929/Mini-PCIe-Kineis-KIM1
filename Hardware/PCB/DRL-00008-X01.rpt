@@ -1,0 +1,25 @@
+Drill report for U:/Etudes/BRD/BRD-00008-X01-ALPWAN-PCI-EXPRESS-MINI-CARD-KIM1/BRD-00008-X01.kicad_pcb
+Created on 22/07/2020 16:27:20
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  In1.Cu                    in1
+    L3 :  In2.Cu                    in2
+    L4 :  B.Cu                      back
+
+
+Drill file 'BRD-00008-X01.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.35mm  0.014"  (271 holes)
+    T2  2.65mm  0.104"  (2 holes)
+
+    Total plated holes count 273
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
