@@ -8,6 +8,8 @@ Kinéis KIM1 is a low power transmitter module based on ARGOS-2 technology and f
 
 This card makes it easy to add a satellite modem to your projects thanks to it’s mini PCIe form factor and USB 2.0 interface.
 
+more informations see www.kineis.com
+
 # Key features and specifications
 
 ![BRD-00008-X01-Block-Diagram](Misc/BRD-00008-X01-Block-Diagram.png)
